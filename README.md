@@ -1,4 +1,4 @@
-# orbit-Nexus
+# Orbit-Nexus
 Starring Dipan Chakraborty , Sudutta Mukherjee
 ISS Inventory Management System
 Overview
